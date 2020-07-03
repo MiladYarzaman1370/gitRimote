@@ -1,0 +1,2 @@
+# gitRimote
+initial repository
